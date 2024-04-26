@@ -1,3 +1,5 @@
+"use strict";//treat all JS code as newer version....
+
 console.log("Amitesh pandey");
 
 // variables let & constant.....
@@ -5,7 +7,7 @@ console.log("Amitesh pandey");
 const account_id=13233   // values cannot be changed 
 let acc_email="abc@gmail.com"
 var acc_pass="12345"
-    accountcity="delhi"
+    accountcity="delhi";
 
 let accstate;  //undefined  output dega.....
 
