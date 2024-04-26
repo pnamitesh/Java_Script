@@ -1,2 +1,2 @@
-const newstring= gamename.substring(0,4)
-// console.log(newstring);
+let mycreateddate = new Date(2024,0,23)
+// console.log(mycreateddate.toString());
