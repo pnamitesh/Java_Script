@@ -1,2 +1,2 @@
-marvel_heros.push(dc_heros)
-// console.log(marvel_heros);
+console.log(jsuser["email"]);
+// console.log(jsuser.email);  
