@@ -1,2 +1,1 @@
-console.log(jsuser["email"]);
-// console.log(jsuser.email);  
+console.log(regularuser.fullname.userfullname.lastname)
